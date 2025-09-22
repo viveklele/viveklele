@@ -66,6 +66,12 @@ Creating delightful software with clean code, strong UX instincts, and a bias fo
 
 </div>
 
+<div align="left">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveklele&theme=tokyo_night" alt="Profile details" />
+
+</div>
+
 ---
 
 ### Activity
@@ -95,12 +101,7 @@ Creating delightful software with clean code, strong UX instincts, and a bias fo
 
 ---
 
-### Contact
-
-- **Email**: add-your-email@example.com
-- **DMs**: open on LinkedIn and X
-
----
+ 
 
 ### Fun bits
 
