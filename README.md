@@ -2,7 +2,7 @@
 
 # Hey, I'm Vivek 👋
 
-Building clean, user-centered software. Shipping fast, learning in public.
+**Full Stack Engineer** — Building clean, user-centered software. Shipping fast, learning in public.
 
 <br />
 
