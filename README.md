@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hey, I'm Vivek 👋
+# Hey, I'm Vivek 👋
 
 Building clean, user-centered software. Shipping fast, learning in public.
 
@@ -41,7 +41,7 @@ Building clean, user-centered software. Shipping fast, learning in public.
 - 🧭 Product‑focused engineering: idea → prototype → production
 - 🎨 Frontend: design systems, performance, polished UI
 - 🛠️ Backend: APIs, auth, databases, cloud
-- ⚙️ Tooling: DX, CI/CD, automation
+- ⚙️ Tooling: DX, CI/CD,
 
 ---
 
@@ -56,14 +56,6 @@ Building clean, user-centered software. Shipping fast, learning in public.
 ### Tech I enjoy
 
 <div align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viveklele&theme=tokyo_night" alt="Profile details" />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viveklele&theme=tokyo_night" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viveklele&theme=tokyo_night" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viveklele&theme=tokyo_night" alt="GitHub stats summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viveklele&theme=tokyo_night&utcOffset=5.5" alt="Productive time (IST)" />
-</div>
 <!-- Replace/add as you like -->
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -115,4 +107,9 @@ Building clean, user-centered software. Shipping fast, learning in public.
 - Strong opinions, loosely held
 
 ---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=viveklele&label=Profile%20views&color=0e75b6&style=flat" alt="viveklele" />
+  
+</p>
 
