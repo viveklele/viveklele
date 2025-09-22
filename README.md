@@ -68,6 +68,26 @@ Creating delightful software with clean code, strong UX instincts, and a bias fo
 
 ---
 
+### Activity
+
+<div align="left">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viveklele&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+
+</div>
+
+---
+
+### Trophies
+
+<div align="left">
+
+<img src="https://github-profile-trophy.vercel.app/?username=viveklele&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 ### Selected work
 
 - [Add a pinned repo or case study](https://github.com/viveklele)
