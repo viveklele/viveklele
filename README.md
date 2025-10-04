@@ -41,7 +41,7 @@
 - 🧭 Product‑focused engineering: idea → prototype → production
 - 🎨 Frontend: design systems, performance, polished UI
 - 🛠️ Backend: APIs, auth, databases, cloud
-- ⚙️ Tooling: DX, CI/CD,
+- ⚙️ Tooling: DX, CI/CD
 
 ---
 
